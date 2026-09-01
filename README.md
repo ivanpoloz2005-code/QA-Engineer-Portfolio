@@ -15,7 +15,7 @@ Welcome to my QA Portfolio! I am a Junior QA Engineer with practical experience 
 
 ### 1. Bug Tracking & Defect Reporting 🐛
 Structured and detailed bug reports capturing environments, preconditions, steps to reproduce, and expected/actual results.
-* 📊 **[Excel Bug Reports](./manual/Bug_Reports.xlsx)**: A collection of 5 detailed bug reports formatted according to ISTQB standards.
+* 📊 **Excel Bug Reports:** [Завантажити .xlsx](./manual/Bug_Reports.xlsx?raw=true) | [👁️ Переглянути в Google Sheets](https://docs.google.com/spreadsheets/d/11sxyu8NWlSjfkujTyPl0mOysRSp0JIgY/edit?usp=sharing&ouid=108610375694020017401&rtpof=true&sd=true)
 * 📌 **Jira Bug Tickets**: Practical examples of defect reporting in Jira (GoIT platform testing).
 <details>
 <summary><b>📸 Click to expand Jira Screenshots</b></summary>
@@ -39,20 +39,20 @@ Structured and detailed bug reports capturing environments, preconditions, steps
 
 ### 2. Test Design & Documentation 📝
 Comprehensive test design artifacts covering core functionality, edge cases, and UI verification.
-* 📄 **[Test Cases in TestRail (PDF)](./manual/testrail.pdf)**: Detailed functional test cases covering localization and UI controls.
-* 📊 **[Positive/Negative Test Cases & Checklist](./manual/Pos_Neg_CL.xlsx)**: Structured test cases for banking operations and a full feature checklist.
+* 📄 **Test Cases in TestRail (PDF):** [Завантажити .pdf](./manual/testrail.pdf?raw=true)
+* 📊 **Positive/Negative Test Cases & Checklist:** [Завантажити .xlsx](./manual/Pos_Neg_CL.xlsx?raw=true) | [👁️ Переглянути в Google Sheets](https://docs.google.com/spreadsheets/d/1-nPvGy-C_sWo8XQjXhrOzYklqiVFOAkr/edit?usp=sharing&ouid=108610375694020017401&rtpof=true&sd=true)
 
 ### 3. API Testing 🚀
 REST API verification including endpoint testing, request/response structure validation, and HTTP status code checks.
-* 📊 **[API Test Cases & Postman Documentation](./api/Postman.xlsx)**: Structured test cases covering REST API endpoints, request parameters, and response verifications.
+* 📊 **API Test Cases & Postman Documentation:** [Завантажити .xlsx](./api/Postman.xlsx?raw=true) | [👁️ Переглянути в Google Sheets](https://docs.google.com/spreadsheets/d/1DjyFfxhiwE28G5Fb421YagQr0OM_k2kB/edit?usp=sharing&ouid=108610375694020017401&rtpof=true&sd=true)
 
 ### 4. Database & SQL Testing 🗄️
 Database verification, data integrity checks, and complex SQL query execution.
-* 📊 **[SQL Testing Tasks & Queries](./sql/SQL.xlsx)**: Practical examples of SQL queries (SELECT, JOINs, aggregate functions) used for database validation.
-  
+* 📊 **SQL Testing Tasks & Queries:** [Завантажити .xlsx](./sql/SQL.xlsx?raw=true) | [👁️ Переглянути в Google Sheets](https://docs.google.com/spreadsheets/d/1YUx5ijijPT81JuEO9ywbrNkBstarFmPS/edit?usp=sharing&ouid=108610375694020017401&rtpof=true&sd=true)
+
 ---
 
 ## 📬 Contacts
-- **LinkedIn:** (https://www.linkedin.com/in/ivan-poloziuk/?locale=uk)
-- **Telegram:** (https://t.me/vandzhes)
+- **LinkedIn:** [Ivan Poloziuk](https://www.linkedin.com/in/ivan-poloziuk/?locale=uk)
+- **Telegram:** [@vandzhes](https://t.me/vandzhes)
 - **Email:** ivanpoloz2005@gmail.com
