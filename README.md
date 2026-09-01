@@ -22,19 +22,19 @@ Structured and detailed bug reports capturing environments, preconditions, steps
 <br>
 
 <i>Bug 1: Non-clickable "RU" language button</i><br>
-<img src="./homeework_1.png" width="600"><br><br>
+<img src="./images/homework_1.png" width="600"><br><br>
 
 <i>Bug 2: Review menu layout issue overlapping with code editor</i><br>
-<img src="./homeework_2.png" width="600"><br><br>
+<img src="./images/homework_2.png" width="600"><br><br>
 
 <i>Bug 3: "Privacy Policy" modal window close button failure</i><br>
-<img src="./homeework_3.png" width="600"><br><br>
+<img src="./images/homework_3.png" width="600"><br><br>
 
 <i>Bug 4: Missing text content inside the "Privacy Policy" modal</i><br>
-<img src="./homeework_4.png" width="600"><br><br>
+<img src="./images/homework_4.png" width="600"><br><br>
 
 <i>Bug 5: UI defect - GoIT logo positioned incorrectly in the header</i><br>
-<img src="./homeework_5.png" width="600">
+<img src="./images/homework_5.png" width="600">
 </details>
 
 ### 2. Test Design & Documentation 📝
