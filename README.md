@@ -15,7 +15,7 @@ Welcome to my QA Portfolio! I am a Junior QA Engineer with practical experience 
 
 ### 1. Bug Tracking & Defect Reporting 🐛
 Structured and detailed bug reports capturing environments, preconditions, steps to reproduce, and expected/actual results.
-* 📊 **[Excel Bug Reports](./Bug_Reports_Professional.xlsx)**: A collection of 5 detailed bug reports formatted according to ISTQB standards.
+* 📊 **[Excel Bug Reports](./manual/Bug_Reports.xlsx)**: A collection of 5 detailed bug reports formatted according to ISTQB standards.
 * 📌 **Jira Bug Tickets**: Practical examples of defect reporting in Jira (GoIT platform testing).
 <details>
 <summary><b>📸 Click to expand Jira Screenshots</b></summary>
@@ -39,9 +39,17 @@ Structured and detailed bug reports capturing environments, preconditions, steps
 
 ### 2. Test Design & Documentation 📝
 Comprehensive test design artifacts covering core functionality, edge cases, and UI verification.
-* 📄 **[Test Cases in TestRail (PDF)](./testrail.pdf)**: Detailed functional test cases covering localization and UI controls.
-* 📊 **[Positive/Negative Test Cases & Checklist](./Pos_Neg_CL_Professional.xlsx)**: Structured test cases for banking operations and a full feature checklist.
+* 📄 **[Test Cases in TestRail (PDF)](./manual/testrail.pdf)**: Detailed functional test cases covering localization and UI controls.
+* 📊 **[Positive/Negative Test Cases & Checklist](./manual/Pos_Neg_CL.xlsx)**: Structured test cases for banking operations and a full feature checklist.
 
+### 3. API Testing 🚀
+REST API verification including endpoint testing, request/response structure validation, and HTTP status code checks.
+* 📊 **[API Test Cases & Postman Documentation](./api/Postman.xlsx)**: Structured test cases covering REST API endpoints, request parameters, and response verifications.
+
+### 4. Database & SQL Testing 🗄️
+Database verification, data integrity checks, and complex SQL query execution.
+* 📊 **[SQL Testing Tasks & Queries](./sql/SQL.xlsx)**: Practical examples of SQL queries (SELECT, JOINs, aggregate functions) used for database validation.
+  
 ---
 
 ## 📬 Contacts
